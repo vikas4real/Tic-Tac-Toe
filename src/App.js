@@ -97,7 +97,7 @@ const App = () => {
             <div>
             
               <h3 className="text-center"><Spinner type="grow" color="danger" />Developed by <a href="www.instagram.com/vikas.byte">Vikas Pandey</a><Spinner type="grow" color="danger" /></h3>
-              
+              <h1>Shashank Dubey</h1>
           </div>
           </Container>
           
